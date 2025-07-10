@@ -1,5 +1,12 @@
 # faucetbot
 
+![PyPI - Version](https://img.shields.io/pypi/v/faucetbot)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/faucetbot)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/mmsaki/faucetbot)
+![GitHub License](https://img.shields.io/github/license/mmsaki/facucetbot)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mmsaki/faucetbot)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/msakiart)
+
 A simple Python bot to automatically request testnet USDC or EURC tokens from the [Circle Faucet](https://faucet.circle.com/) every hour.
 
 Useful for developers testing smart contracts on networks like Uniswap V4, Base, Arbitrum, and others.
